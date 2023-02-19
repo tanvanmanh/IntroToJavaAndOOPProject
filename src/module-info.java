@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author manhtan
+ *
+ */
+module MyFirstProject {
+}
